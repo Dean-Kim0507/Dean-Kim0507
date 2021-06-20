@@ -1,9 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&desc=Dean's%20World!&color=16A596&animation=twinkling&fontColor=E5DF88&fontSize=20&&descSize=60)
-<
+
  <br/>
-     Hi there😄
-- 🌱 I’m currently working on full stack development
+  Hi there😄<br/>
+  My name is Dean(Donghyun) and I’m currently working on full stack development🌱 
+ 
+  <h3>Skiils</h3>
  <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
-
+ <h3><a href="https://dean-kim.herokuapp.com/">Click here and see more about me!</a></h3>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=16A596)
 
