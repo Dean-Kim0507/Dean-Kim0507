@@ -24,10 +24,8 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-EC1C24?style=flat-square&logo=AdobeAcrobatReader&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
- <h3><a target="_blank" rel="noopener noreferrer" href="https://dean-kim.herokuapp.com/">Click here ⚡ and see more about me!</a></h3>
+ <h3><a target="_blank" rel="noopener noreferrer" href="https://dean-kim.herokuapp.com/">Click here ✨ and see more about me!</a></h3>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=16A596)
 
