@@ -1,6 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=randomtext=Welcome to Dean's Github! )
+![header](https://capsule-render.vercel.app/api?type=waving&desc=Dean's%20World!&color=random&animation=twinkling&fontColor=d6ace6&fontSize=20&&descSize=60)
+<br/>
+<img src="https://dean-website.s3.ca-central-1.amazonaws.com/icon/dean_name(biggerversion).png" width="100" height="150"/>
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=random)
 
 
 <!--
