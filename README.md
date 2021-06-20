@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&desc=Dean's%20World!&color=16A596&animation=twinkling&fontColor=E5DF88&fontSize=20&&descSize=60)
-<br/>
- <img src="https://dean-website.s3.ca-central-1.amazonaws.com/icon/dean_name(biggerversion).png" width="100" height="150"/>
+<
  <br/>
      Hi there😄
 - 🌱 I’m currently working on full stack development
@@ -17,6 +16,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL Plus-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
    <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+ <br/>
    <img src="https://img.shields.io/badge/SQL Plus Admin-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
