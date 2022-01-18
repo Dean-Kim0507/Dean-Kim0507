@@ -3,7 +3,7 @@
 
  <br/>
   Hi there😄<br/>
-  My name is Dean(Donghyun) and I’m currently working on full stack development🌱 
+  My name is Dean(Donghyun) and I’m currently working as a  Software developer🌱 
  
   <h3>Skiils</h3>
  <p>
